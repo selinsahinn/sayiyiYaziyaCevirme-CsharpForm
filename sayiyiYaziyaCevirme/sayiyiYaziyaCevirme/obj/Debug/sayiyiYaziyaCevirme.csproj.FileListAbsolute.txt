@@ -1,0 +1,10 @@
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.Properties.Resources.resources
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\bin\Debug\sayiyiYaziyaCevirme.exe.config
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\bin\Debug\sayiyiYaziyaCevirme.exe
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\bin\Debug\sayiyiYaziyaCevirme.pdb
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.Form1.resources
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.exe
+C:\Users\selin\Desktop\sayiyiYaziyaCevirme\sayiyiYaziyaCevirme\obj\Debug\sayiyiYaziyaCevirme.pdb
